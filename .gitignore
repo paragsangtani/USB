@@ -1,0 +1,15 @@
+.cproject
+.project
+.settings/
+Debug/
+Inc/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h
+Inc/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+Inc/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+Inc/CMSIS/Include/
+Inc/logger/
+STM32F407VGTX_FLASH.ld
+STM32F407VGTX_RAM.ld
+logger/
+systeminit.c
+Startup/
+USB Debug.launch
